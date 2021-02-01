@@ -1,7 +1,8 @@
-Domponenti neccessarie
+Componenti neccessarie
 Computer con Windows
 Minimo 3 Telefoni con Andorid 5.1 o superiore
 
 Come procedere:
 Aprire la cartella server e eseguire il file Exe
+Se si vuole eseguire una connessione Extra lan è necessario efettuare il port farwarding per la porta descritta dalla schermata server.
 Installare l'APK sui 3 telefoni e cliccare il pulsante Murder
